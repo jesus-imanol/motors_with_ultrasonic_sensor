@@ -99,4 +99,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 📄 Licencia
 Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
 
-⭐ ¿Te gustó este proyecto? ¡No olvides darle una estrella!RetryClaude does not have the ability to run the code it generates yet. Claude does not have internet access. Links provided may not be accurate or up to date.
+⭐ ¿Te gustó este proyecto? ¡No olvides darle una estrella!
